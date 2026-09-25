@@ -6,4 +6,4 @@ Major / program: Data Science and Analytics
 
 Favorite dataset or industry interest: My favorite dataset that I have worked with was a dataset found on Kaggle called Christmas Hits Daily Streaming History (2017-2025)
 
-One reason I am studying analytics:
+One reason I am studying analytics: One reason I am studying analytics is I wanted to expand my career. I have an undergraduate degree in business administration and when I was looking through the different programs, I found Data Science and Analytics and realized that this can pair well with my undergraduate degree.
