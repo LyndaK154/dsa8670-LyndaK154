@@ -73,3 +73,6 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+---
+Version control is very important when it comes to analytics. Whether it is working on a project on your own or working on a project with multiple people. Version control makes it easy to go back to a previous version of your project. It is important because if you don't like the way the current version turned out or something did not work, you can just go back to the previous version rather than completely starting over. One thing that I learned from reading so far is how much you can do with GitHub. It makes it easy to work on projects with others and being able to merge code files and also with others being able to work on files together.
