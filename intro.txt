@@ -4,6 +4,6 @@ Name: Lynda Knox
 
 Major / program: Data Science and Analytics
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: My favorite dataset that I have worked with was a dataset found on Kaggle called Christmas Hits Daily Streaming History (2017-2025)
 
 One reason I am studying analytics:
